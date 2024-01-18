@@ -12,7 +12,6 @@
           <q-tab name="aboutUs" @click='onScroll("id_aboutUs")' label="Sobre nós" />
           <q-tab name="deal" @click='onScroll("id_deal")' class="bg-accent" label="Faça um orçamento" style="border-radius: 20px;"/>
         </q-tabs>
-        <!-- <q-icon class="col-2" name="fafacebook" size="lg"></q-icon> -->
       </q-toolbar>
     </q-header>
     <q-page-container>
